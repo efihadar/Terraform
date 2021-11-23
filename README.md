@@ -1,2 +1,2 @@
 # Terraform
-A collection of tf files
+A collection of TF files
